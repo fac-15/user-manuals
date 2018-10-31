@@ -1,6 +1,8 @@
 # User Manuals
 Personal user manuals! Keep them updated, read them well 📒
 
+![The Pink Panther reading a book](https://media.giphy.com/media/ZCmDhIFeF1s2c/giphy.gif)
+
 ## How do I edit my user manual?
 Your manuals are all in this repo as issues. Click on the 'issues' tab above to see them all.
 Find your own, and click the `...` in the top right of the comment to edit it and add your info.
